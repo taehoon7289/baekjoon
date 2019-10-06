@@ -1,4 +1,4 @@
-package com.taehoon;
+package com.taehoon.class01;
 
 public class Class01_3 {
 

@@ -1,4 +1,4 @@
-package com.taehoon;
+package com.taehoon.class01;
 
 import java.io.IOException;
 import java.util.Scanner;
