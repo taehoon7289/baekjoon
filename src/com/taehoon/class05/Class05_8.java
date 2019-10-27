@@ -1,7 +1,9 @@
 package com.taehoon.class05;
 
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import java.util.StringTokenizer;
 
 public class Class05_8 {
   public static void main(String[] args) {
